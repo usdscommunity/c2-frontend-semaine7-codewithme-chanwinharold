@@ -5,7 +5,7 @@ import Cart from "./components/Cart.jsx";
 function App() {
 
     return (
-        <div>
+        <div className="m-10 flex">
             <Main />
             <Cart />
         </div>
