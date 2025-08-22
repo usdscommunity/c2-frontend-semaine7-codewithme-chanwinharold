@@ -5,86 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="050027b8-0c2a-4685-a08c-94eef0718e90" name="Changes" comment="Main component completed">
-      <change afterPath="$PROJECT_DIR$/.idea/codespace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/styles/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Cart.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Dessert.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewithme-s7/vite.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/fonts/OFL.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/fonts/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/RedHatText-Italic-VariableFont_wght.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/fonts/RedHatText-Italic-VariableFont_wght.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/RedHatText-VariableFont_wght.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/fonts/RedHatText-VariableFont_wght.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/static/RedHatText-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/fonts/static/RedHatText-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/static/RedHatText-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/fonts/static/RedHatText-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/static/RedHatText-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/fonts/static/RedHatText-SemiBold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon-add-to-cart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/icon-add-to-cart.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon-carbon-neutral.svg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/icon-carbon-neutral.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon-decrement-quantity.svg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/icon-decrement-quantity.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon-increment-quantity.svg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/icon-increment-quantity.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon-order-confirmed.svg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/icon-order-confirmed.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon-remove-item.svg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/icon-remove-item.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/illustration-empty-cart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/illustration-empty-cart.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-baklava-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-baklava-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-baklava-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-baklava-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-brownie-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-brownie-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-brownie-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-brownie-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-cake-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-cake-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-cake-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-cake-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-creme-brulee-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-creme-brulee-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-creme-brulee-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-creme-brulee-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-macaron-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-macaron-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-macaron-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-macaron-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-meringue-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-meringue-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-meringue-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-meringue-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-panna-cotta-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-panna-cotta-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-panna-cotta-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-panna-cotta-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-tiramisu-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-tiramisu-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-tiramisu-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-tiramisu-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-waffle-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-waffle-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-waffle-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/image-waffle-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/data/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/active-states.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/design/active-states.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/desktop-design-empty.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/design/desktop-design-empty.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/desktop-design-order-confirmation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/design/desktop-design-order-confirmation.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/desktop-design-selected.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/design/desktop-design-selected.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/mobile-design-empty.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/design/mobile-design-empty.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/mobile-design-order-confirmation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/design/mobile-design-order-confirmation.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/mobile-design-selected.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/design/mobile-design-selected.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-baklava-desktop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-baklava-mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-baklava-tablet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-baklava-thumbnail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-brownie-desktop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-brownie-mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-brownie-tablet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-brownie-thumbnail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-cake-desktop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-cake-mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-cake-tablet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-cake-thumbnail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-creme-brulee-desktop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-creme-brulee-mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-creme-brulee-tablet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-creme-brulee-thumbnail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-macaron-desktop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-macaron-mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-macaron-tablet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-macaron-thumbnail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-meringue-desktop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-meringue-mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-meringue-tablet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-meringue-thumbnail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-panna-cotta-desktop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-panna-cotta-mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-panna-cotta-tablet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-panna-cotta-thumbnail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-tiramisu-desktop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-tiramisu-mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-tiramisu-tablet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-tiramisu-thumbnail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-waffle-desktop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-waffle-mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-waffle-tablet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-waffle-thumbnail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/components/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/components/Dessert.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Dessert.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/components/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/data/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,11 +102,15 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codewithme-s7/public/images" />
+      <recent name="$PROJECT_DIR$/codewithme-s7/public" />
       <recent name="$PROJECT_DIR$/codewithme-s7/src/data" />
       <recent name="$PROJECT_DIR$/codewithme-s7/src/assets/styles" />
       <recent name="$PROJECT_DIR$/codewithme-s7/src" />
-      <recent name="$PROJECT_DIR$/codewithme-s7/public" />
     </key>
   </component>
   <component name="RunManager">
@@ -178,8 +146,18 @@
       <option name="presentableId" value="Default" />
       <updated>1755810544414</updated>
       <workItem from="1755810546947" duration="17539000" />
-      <workItem from="1755828159631" duration="194000" />
+      <workItem from="1755828159631" duration="262000" />
+      <workItem from="1755872895511" duration="3738000" />
     </task>
+    <task id="LOCAL-00001" summary="Main component completed">
+      <option name="closed" value="true" />
+      <created>1755828360348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755828360348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

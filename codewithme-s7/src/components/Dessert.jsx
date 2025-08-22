@@ -1,6 +1,5 @@
 import Button from "./Button.jsx";
 
-
 function Dessert({mobileUrl, TabletUrl, DesktopUrl, category, name, price}) {
 
     return (
@@ -9,7 +8,7 @@ function Dessert({mobileUrl, TabletUrl, DesktopUrl, category, name, price}) {
                 <picture>
                     <source srcSet={TabletUrl} media="(min-width: 650px)" />
                     <source srcSet={DesktopUrl} media="(min-width: 1024px)" />
-                    <img className="w-70 h-70 object-cover rounded-lg" src="" alt="" />
+                    <img className="w-70 h-70 object-cover rounded-lg" src={mobileUrl} alt="" />
                 </picture>
                 <Button />
             </div>
