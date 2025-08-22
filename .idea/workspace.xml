@@ -4,51 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050027b8-0c2a-4685-a08c-94eef0718e90" name="Changes" comment="Main component completed">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="050027b8-0c2a-4685-a08c-94eef0718e90" name="Changes" comment="Fetch data bugs fixed">
+      <change afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Order.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewithme-s7/src/hooks/useCount.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codewithme-s7/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-baklava-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-baklava-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-baklava-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-baklava-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-baklava-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-brownie-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-brownie-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-brownie-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-brownie-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-brownie-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-cake-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-cake-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-cake-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-cake-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-cake-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-creme-brulee-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-creme-brulee-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-creme-brulee-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-creme-brulee-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-creme-brulee-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-macaron-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-macaron-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-macaron-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-macaron-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-macaron-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-meringue-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-meringue-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-meringue-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-meringue-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-meringue-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-panna-cotta-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-panna-cotta-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-panna-cotta-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-panna-cotta-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-panna-cotta-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-tiramisu-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-tiramisu-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-tiramisu-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-tiramisu-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-tiramisu-thumbnail.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-waffle-desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-waffle-mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-waffle-tablet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/assets/images/image-waffle-thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/public/images/image-waffle-thumbnail.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codewithme-s7/src/components/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/components/Dessert.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Dessert.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/components/Cart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Cart.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codewithme-s7/src/components/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/codewithme-s7/src/components/Main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewithme-s7/src/data/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JSX File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -85,22 +49,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/harold/Documents/USD's_SESSIONS/codespace&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/harold/Documents/USD's_SESSIONS/codespace",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "/opt/webstorm/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -147,7 +112,9 @@
       <updated>1755810544414</updated>
       <workItem from="1755810546947" duration="17539000" />
       <workItem from="1755828159631" duration="262000" />
-      <workItem from="1755872895511" duration="3738000" />
+      <workItem from="1755872895511" duration="3921000" />
+      <workItem from="1755876836872" duration="7000" />
+      <workItem from="1755896613109" duration="10279000" />
     </task>
     <task id="LOCAL-00001" summary="Main component completed">
       <option name="closed" value="true" />
@@ -157,7 +124,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755828360348</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fetch data bugs fixed">
+      <option name="closed" value="true" />
+      <created>1755876667933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755876667933</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fetch data bugs fixed">
+      <option name="closed" value="true" />
+      <created>1755876751789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755876751789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +148,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Main component completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main component completed" />
+    <MESSAGE value="Fetch data bugs fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fetch data bugs fixed" />
   </component>
 </project>

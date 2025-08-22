@@ -13,7 +13,7 @@ function Main() {
     //         .catch(error => console.log("Échec lors de la récupération des données", error))
     // }, []);
 
-    useEffect(() => {
+    useEffect( () => {
         const handleFetch = async () => {
             try {
                 const res = await fetch("/data.json")
@@ -27,9 +27,9 @@ function Main() {
     }, []);
 
     return Data ? (
-        <div className="max-w-[975px]">
-            <h1 className="text-primary-rose-900 font-bold text-4xl mb-8">Desserts</h1>
-            <div className="flex flex-wrap gap-5 ">
+        <div className="max-w-[975px] w-fit">
+            <h1 className="flex text-primary-rose-900 font-bold text-4xl mb-8">Desserts</h1>
+            <div className="flex flex-wrap gap-5 justify-center">
                 {
                     Data.map(({image, category, name, price}) => (
                         <Dessert

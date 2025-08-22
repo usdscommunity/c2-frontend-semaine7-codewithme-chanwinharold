@@ -1,13 +1,15 @@
 import {useState} from "react";
+import useCount from "../hooks/useCount.js";
 
 function Button() {
     const [isActive, setIsActive] = useState(false)
+    const [count, incrementCount, decrementCount] = useCount()
 
     return isActive ? (
         <div className="w-45 -mt-6 border-1 border-transparent inline-flex justify-between items-center bg-primary-red text-white gap-2 py-3 px-5 rounded-4xl">
-            <svg className="border-1 border-white rounded-full w-4 h-4 p-px" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10"><path fill="#fff" d="M10 4.375H5.625V0h-1.25v4.375H0v1.25h4.375V10h1.25V5.625H10v-1.25Z"/></svg>
-            <span>5</span>
-            <svg className="border-1 border-white rounded-full w-4 h-4 p-px" xmlns="http://www.w3.org/2000/svg" width="10" height="2" fill="none" viewBox="0 0 10 2"><path fill="#fff" d="M0 .375h10v1.25H0V.375Z"/></svg>
+            <svg onClick={incrementCount} className="border-1 border-white rounded-full w-4 h-4 p-px" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10"><path fill="#fff" d="M10 4.375H5.625V0h-1.25v4.375H0v1.25h4.375V10h1.25V5.625H10v-1.25Z"/></svg>
+            <span>{count}</span>
+            <svg onClick={decrementCount} className="border-1 border-white rounded-full w-4 h-4 p-px" xmlns="http://www.w3.org/2000/svg" width="10" height="2" fill="none" viewBox="0 0 10 2"><path fill="#fff" d="M0 .375h10v1.25H0V.375Z"/></svg>
         </div>
     ) : (
         <div onClick={setIsActive} className="w-45 -mt-6 border-1 border-primary-rose-900 inline-flex justify-center bg-primary-rose-50 gap-2 py-3 px-5 rounded-4xl">
